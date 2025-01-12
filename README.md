@@ -1,2 +1,2 @@
 # Sorteador de Números
-Mais um projeto simples para fortalecer meu JavaScript.
+Acesse o projeto: https://vercel.com/gustavojomes-projects/sorteador-de-numeros
